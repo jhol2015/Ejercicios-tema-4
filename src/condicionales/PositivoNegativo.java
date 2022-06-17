@@ -39,7 +39,7 @@ public class PositivoNegativo {
             numeroFor++;
         }
     }
-    
+
     public static void bucleSwitch(String estacion) {
         switch (estacion) {
             case "verano" -> System.out.println("Estamos en verano");
